@@ -5,8 +5,7 @@ import io.vertx.core.Future;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.web.Router;
 import io.vertx.ext.web.RoutingContext;
-import io.vertx.ext.web.handler.StaticHandler;
-import io.  
+import io.vertx.ext.web.handler.StaticHandler; 
 
 import static io.vertx.core.http.HttpHeaders.CONTENT_TYPE;
 
